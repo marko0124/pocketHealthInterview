@@ -1,0 +1,13 @@
+# Backend
+backend/bin/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# General
+.DS_Store
+.idea/
+*.log
